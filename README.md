@@ -12,4 +12,5 @@ The files are based on [Geoland.at/Land Kärnten](https://www.data.gv.at/katalog
 3. Changed the 'Gemeindekennziffer' of municipalities in the former district of 'Wien Umgebung', as it was disbanded 2017
 4. Simplified to 95%, 99.5% and 99.9% (using [mapshaper.org](http://www.mapshaper.org))
 5. Turned into GeoJSON and TopoJSON format
-6. Created district and state files (the district files don't contain 'Wien Umgebung' any more - for files with this district look to the folder 2016) for easier use (no more merging if you only need a certain level)
+6. Created district and state files for easier use (no more merging if you only need a certain level)
+  * The district files don't contain 'Wien Umgebung' any more - for files with this district look to the folder 2016
