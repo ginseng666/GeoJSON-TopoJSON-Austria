@@ -1,4 +1,4 @@
-# GeoJSON/TopoJSON Austria
+# GeoJSON/TopoJSON Austria (2017)
 Geo- and TopoJSON files of municipalities, districts and states in Austria, as of January 2017 
 (an older version can be found in the folder '2016' - it includes municipalities, districts and states as of June 2016)
 
