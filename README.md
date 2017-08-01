@@ -14,3 +14,7 @@ The files are based on [Geoland.at/Land Kärnten](https://www.data.gv.at/katalog
 5. Turned into GeoJSON and TopoJSON format
 6. Created district and state files for easier use (no more merging if you only need a certain level)
   * The district files don't contain 'Wien Umgebung' any more - for files with this district look to the folder 2016
+
+
+CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
+Original file: CC BY 3.0 Geoland Kärnten
