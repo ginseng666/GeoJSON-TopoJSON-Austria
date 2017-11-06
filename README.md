@@ -13,8 +13,13 @@ The files are based on [Geoland.at/Land Kärnten](https://www.data.gv.at/katalog
 4. Simplified to 95%, 99.5% and 99.9% (using [mapshaper.org](http://www.mapshaper.org))
 5. Turned into GeoJSON and TopoJSON format
 6. Created district and state files for easier use (no more merging if you only need a certain level)
-  * The district files don't contain 'Wien Umgebung' any more - for files with this district look to the folder 2016
+  * The district files don't contain 'Wien Umgebung' any more - if necessary, use the files from 2016
+
+The folder "2017" now contains some special maps:
+* district maps with vienna as an enlarged feature, hovering over bavaria
+* municipality maps with vienna being divided into districts
 
 
 CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
+
 Original file: CC BY 3.0 Geoland Kärnten
