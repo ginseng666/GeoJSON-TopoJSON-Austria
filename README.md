@@ -19,7 +19,7 @@ The folder "2017" now contains some special maps:
 * district maps with vienna as an enlarged feature, hovering over bavaria
 * municipality maps with vienna being divided into districts
 
-The folder "2020" for now only contains a shp of "Siedlungseinheiten" per district, used to symbolise districts. It only contains a field "id" that points to the district
+The folder "2020" for now only contains a shp of "Siedlungseinheiten" per district, used to symbolise districts. It only contains a field "id" that points to the district. See (here)[https://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/siedlungseinheiten/index.html] for an explanation. Note that while the map is based on data from 2011, the district data is from 2020.
 
 CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
 
