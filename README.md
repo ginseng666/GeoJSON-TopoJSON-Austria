@@ -1,4 +1,4 @@
-# GeoJSON/TopoJSON Austria (2017)
+# GeoJSON/TopoJSON Austria (2016-2020)
 Geo- and TopoJSON files of municipalities, districts and states in Austria, as of January 2017 
 (an older version can be found in the folder '2016' - it includes municipalities, districts and states as of June 2016)
 
@@ -19,7 +19,10 @@ The folder "2017" now contains some special maps:
 * district maps with vienna as an enlarged feature, hovering over bavaria
 * municipality maps with vienna being divided into districts
 
+The folder "2020" for now only contains a shp of "Siedlungseinheiten" per district, used to symbolise districts. It only contains a field "id" that points to the district
 
 CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
 
 Original file: CC BY 3.0 Geoland Kärnten
+
+Original file Siedlungseinheiten: CC BY 4.0 Statistik Austria
