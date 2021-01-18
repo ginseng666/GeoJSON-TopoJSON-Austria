@@ -19,7 +19,7 @@ The municipality and district file both contain two versions of Vienna: One as s
 2. A simplified version is provided with a simplification of 75% - too much details disappears if using a higher rate.
 3. Note that while the map is based on data from 2011, the district data is from 2020.
 
-
+<br/><br/>
 The older versions are based on Geoland.at/Land Kärnten (no longer online). They can be used if one needs for instance the border of the district 'Wien Umgebung'. Additionally to the changes above:
 
 1. Fixed several spelling issues with the names and - as far as possible - changed them to the official name used by Statistik Austria
@@ -27,8 +27,8 @@ The older versions are based on Geoland.at/Land Kärnten (no longer online). The
 * District map of Vienna hovering enlarged over Bavaria
 * Municipality map with Vienna being divided into districts
 
-
-CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
+<br/><br/>
+All files CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/)
 
 Original file 2021: CC BY 4.0 Statistik Austria - data.statistik.gv.at
 
