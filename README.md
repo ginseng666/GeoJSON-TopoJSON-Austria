@@ -1,5 +1,5 @@
 # GeoJSON/TopoJSON Austria (2016-2021)
-Geo- and TopoJSON files of municipalities, districts and states in Austria, as of January 2021. Older versions can be found in the folders '2016' and '2017' - they include the borders as of June 2016 and January 2017. If really old versions are needed (like 2013, before the major 'Styrian update', see [here](https://wahlen.strategieanalysen.at/geojson/).
+Geo- and TopoJSON files of municipalities, districts and states in Austria, as of January 2021. Older versions can be found in the folders '2016' and '2017' - they include the borders as of June 2016 and January 2017. If really old versions are needed (like 2013, before the major 'Styrian update'), see [here](https://wahlen.strategieanalysen.at/geojson/).
 
 The files for 2021 are based on [Statistik Austria - data.statistik.gv.at](https://data.statistik.gv.at/web/meta.jsp?dataset=OGDEXT_GEM_1) and have been modified in several ways:
 
@@ -11,6 +11,7 @@ The files for 2021 are based on [Statistik Austria - data.statistik.gv.at](https
 4. Created district and state files for easier use
 
 The municipality and district file both contain two versions of Vienna: One as single feature, one divided into its 23 districts. The features are placed on top of each other and can be filtered using the iso field ('900'/'90001' being the single feature).
+
 
 2021 also contains a shp/geojson/topojson of "Siedlungseinheiten" per district, used to symbolise districts (see [here](https://www.statistik.at/web_de/klassifikationen/regionale_gliederungen/siedlungseinheiten/index.html) for an explanation, and [here](https://www.drawingdata.net/cov_bezirke/) for a use case):
 
