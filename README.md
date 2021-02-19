@@ -6,7 +6,7 @@ The files for 2021 are based on [Statistik Austria - data.statistik.gv.at](https
 1. The files contain only two fields:
   * iso (string): the 'Gemeindekennziffer', a number to identify region/state (first digit), district (first three digits) and municipality (whole number) - accordingly the iso in district and state files is only three or one character long
   * name (string): the name of the municipality
-2. Simplified to 95%, 99.5% and 99.9% (using [mapshaper.org](http://www.mapshaper.org))
+2. Simplified to 95%, 99.5% and 99.9% (using [mapshaper.org](http://www.mapshaper.org) - the percentage relates to the degree of simplification)
 3. Turned into GeoJSON and TopoJSON format
 4. Created district and state files for easier use
 
